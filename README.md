@@ -1,6 +1,9 @@
-# i_am_rich
 
-Basic flutter project
+# 💎 I Am Rich 💎
+
+> A simple Flutter application to remind you that you are rich!
+
+This project is a fun starting point for a Flutter application.
 
 ## Getting Started
 
